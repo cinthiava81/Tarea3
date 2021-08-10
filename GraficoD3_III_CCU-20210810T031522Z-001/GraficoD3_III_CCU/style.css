@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+body {
+  background-color: #457bd8;
+  font-family: Lato, sans-serif, Helvetica;
+}
+
+.heading {
+  color: #ffff
+}
+
+.graf {
+  background-color: #ffff;
+}
+
+.ejes {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: #2D3142;
+}
+
+.foto {
+  height: 75px;
+  width: 60px;
+}
+
+.nombres {
+  color: #4F5D75;
+  font-size: 85%;
+}
+
+.titulo {
+  font-family: 'Zen Loop', sans-serif;
+  color: #ffff;
+  font-size: 75;
+}
+.subtitulo {
+  font-family: Arial;
+  color: #4F5D75;
+  font-size: 60%;
+}
+
+.titulo-tarjeta {
+  font-family: 'Zen Loop', Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color:#EF8354;
+  font-size: 200%;
+  border-bottom: 1px solid #d7754b;
+  margin-bottom: 15px;
+}
+
+.card-img1 {
+  height: 300px;
+  object-fit: cover;
+}
+
+.imagentitulo {
+  height: 200px;
+  width: 1200px;
+  object-fit: cover;
+}
+
+.card-img2 {
+  height: 350px;
+  object-fit: contain;
+}
+
+.tarjeta {
+  height: 85%;
+}
+
+.fecha-proyecto {
+  color: #777;
+  font-size: 70%;
+}
+
+.fecha-inferior {
+  color: #777;
+  font-size: 100%;
+}
+
+.numerote {
+  font-family: 'Otomanopee One', sans-serif;
+  font-size: 100px;
+  fill: #bbb;
+}
